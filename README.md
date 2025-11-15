@@ -7,7 +7,7 @@ It uses a unified dataset to provide a complete view of business trends, custome
 
 ---
 
-## 🚀 Key Features
+## - Key Features
 
 ### **1. Executive Overview**
 - Total Sales: **18.73M**
@@ -63,7 +63,7 @@ It uses a unified dataset to provide a complete view of business trends, custome
 
 ---
 
-## 📁 Dataset
+## - Dataset
 The dataset includes:
 - Date table  
 - Customer data  
@@ -76,7 +76,7 @@ The dataset includes:
 
 ---
 
-## 📈 Skills Demonstrated
+## - Skills Demonstrated
 - Data Cleaning & Transformation  
 - DAX Calculations  
 - KPI Creation  
@@ -87,7 +87,7 @@ The dataset includes:
 
 ---
 
-## 📷 Dashboard Previews
+## - Dashboard Previews
 Screenshots included in the repository show:
 - Executive Overview  
 - Sales & Marketing  
@@ -97,7 +97,7 @@ Screenshots included in the repository show:
 
 ---
 
-## 🚧 Future Enhancements
+## - Future Enhancements
 - Add forecasting using time-series models  
 - Integrate R/Python visualizations  
 - Enable dynamic drill-through pages  
@@ -105,7 +105,7 @@ Screenshots included in the repository show:
 
 ---
 
-## 📌 Author
+## - Author
 **Rajat Pandey**  
 B.Tech AI & ML | Data Analyst & Dashboard Developer
 
